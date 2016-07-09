@@ -9,10 +9,13 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
+        {% if post.featured_image %}
+          <img src="{{ post.featured_image }}" alt="featured image" style='display: block; margin-left: auto; margin-right: auto; max-width:350px;'>
+        {% endif %}
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Weiterlesen</a>
     </article>
   {% endfor %}
 </div>
