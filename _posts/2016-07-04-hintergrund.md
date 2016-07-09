@@ -22,13 +22,13 @@ Aber es gibt noch eine andere Möglichkeit, die ich hier in diesem Blog vorstell
 
 Der Blog besteht aus meinen Experimenten mit Daten. Dahinter steht meist eine einfache Frage, die ich dann mit der oben beschriebenen Methode versuche zu lösen. Ich gebe also nicht nur eine Antwort auf die Frage, sondern versuche auch zu zeigen, wie man selber zu der Antwort kommt. Zum Zeitpunkt, als dieser Blog aus der Taufe gehoben wurde, gab es drei Einträge, anhand derer ich das kurz erläutern möchte:
 
-- [**Wie hat sich das Cover vom Magazin Spiegel verändert?**](/spiegel-cover)
+- [**Wie hat sich das Cover vom Magazin Spiegel verändert?**](/spiegel-cover/)
 Vom Magazin "Der Spiegel" findet man die jeweiligen Covers seit der Erstausgabe 1947 [online](http://www.spiegel.de/spiegel/print/index-1947.html). In dem Blogeintrag analysiere ich wie sich das Cover über die Zeit enwickelt hat. Dazu werden die Covers nebeneinander und übereinander gelegt, und es wird auch eine Animation erzeigt.
 
-- [**Wie alt ist mein Sohn genau?**](/kalender)
+- [**Wie alt ist mein Sohn genau?**](/kalender/)
 Gut, diese konkrete Fragestellung würde jetzt einen eher kurzen Blogeintrag ergeben. Hier soll auch gezeigt werden, wie man sich ganz individuelle Kalendereinträge erstellen und in seinen eigenen Kalender importieren kann, die einen zum Beispiel erinnern, dass jemand heute 5.000 Tage alt wird.
 
-- [**Wo in Niederösterreich findet man als Mann am ehesten eine Frau?**](/karten-noe)
+- [**Wo in Niederösterreich findet man als Mann am ehesten eine Frau?**](/karten-noe/)
 Hier war es jetzt nicht genau diese Fragestellung, die für mich spannend war -- ich bin glücklich verheiratet. Ich wollte mit der Darstellung von Daten auf Landkarten experimentieren. Durch Zufall habe ich Daten gefunden, die diese Frage beantworten.
 
 Ich hoffe, dass diese Sammlung im Laufe der Zeit wächst. Ein paar Ideen habe ich schon, jetzt braucht es nur noch die Zeit, diese umzusetzen. Ich freue mich natürlich auch über Anregungen.

@@ -18,7 +18,7 @@ Dr. Christopher Summer \\
 
 ### Grundlegende Richtung:
 
-Das gesamte Internet-Auftreten von Christopher Summer dient, wenn nicht anders angegeben, ausnahmslos der Darstellung von und für Christopher Summer. Alle Werke von Christopher Summer (einschließlich allen Texten, Programmcodes und Daten) verstehen sich als Kunst im Sinne der Definition von Kunst in "Brockhaus Enzyklopädie In Zwanzig Bänden", 17. Auflage, 10. Band, Wiesbaden: F. A. Brockhaus 1970, Seite 756f.; siehe auch die Definition von [Art](http://en.wikipedia.org/wiki/Art) aus Wikipedia.
+Das gesamte Internet-Auftreten von Christopher Summer dient, wenn nicht anders angegeben, ausnahmslos der Darstellung von und für Christopher Summer. Alle Werke von Christopher Summer (einschließlich allen Texten, Programmcodes und Daten) verstehen sich als Kunst im Sinne der Definition von Kunst in "Brockhaus Enzyklopädie In Zwanzig Bänden", 17. Auflage, 10. Band, Wiesbaden: F. A. Brockhaus 1970, Seite 756f.; siehe auch die Definition von [Art](https://en.wikipedia.org/wiki/Art) aus Wikipedia.
 
 ### Copyright:
 
