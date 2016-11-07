@@ -63,7 +63,9 @@ Als nächsten Schritt die Themen im Laufe der Zeit: Dazu im Folgenden nun Wortwo
 Die folgende Grafik zeigt, wie oft ausgewählte Wörter im Nationalrat über die Jahre hinweg verwendet werden. Im ersten Abschnitt sieht man die Wörter, die bereits oben bei den Wortwolken erwähnt wurden. Interessant vielleicht, dass das Thema *Steuerreform* 2007 bis 2009 bereits Thema war, dann war Funkstille, seit 2014 ist es nun wieder Thema.
 Dass Österreich in den Jahren 2011 bis 2013 eine *Finanzministerin* hatte, sieht man ebenso deutlich, wie den Wechsel an der SPÖ-Spitze und die Entwicklung der Parteien *BZÖ*, *Stronach* und *NEOS*.
 
+[
 ![Wörter pro Jahr](/images/2016-parlament/wc_jahr_woerter.svg)
+](/images/2016-parlament/wc_jahr_woerter.svg){:target="_blank"}
 {: .center}
 
 Eine andere Frage, die man anhand der Daten betrachten kann, ist, worüber welche Partei spricht. Für die Analysen unten habe ich neben den Parteien SPÖ, ÖVP, FPÖ und Grüne auch die Minister und Ministerinnen der Regierung erfasst. Beginnen wir mit einem kleinen Rästel. Die Wortwolken unten zeigen pro Partei die Wörter, die von dieser Partei überdurchschnittlich (Wortwolke links) sowie unterdurchschnittlich (Wortwolke rechts) verwendet werden. Allerdings sind die Parteien mit Partei A, B, C, D und E anonoymisiert. Die Auflösung findet sich am Ende des Blogbeitrags.
