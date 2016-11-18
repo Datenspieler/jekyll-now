@@ -14,5 +14,10 @@
 
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
-    <meta property="twitter:title" content="{{ page.title }}" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:creator" content="@datenspieler" />
+    <meta name="twitter:site" content="@datenspieler" />
+    <meta name="twitter:title" content="{{ page.title }}" />
+    <meta name="twitter:description" content="{{ page.excerpt| strip_html }}" />
+    <meta name="twitter:image" content="{{ site.url }}{{ page.featured_image }}" />
     {% endif %}
