@@ -88,7 +88,7 @@ Interessant auch, welche Parteien gewisse Wörter mehr oder weniger verwenden. *
 {: .center}
 
 
-Im nächsten Beitrag werde ich die Daten aus dem Nationalrat weiter analysieren und endlich die Frage beantworten, ob männliche oder weibliche Abgeordnete die längeren Reden halten. Oder auch, in welchem Monat und an welchem Wochentag die meisten Reden gehalten werden.
+Im nächsten [Beitrag](/parlament-zahlen/) werde ich die Daten aus dem Nationalrat weiter analysieren und endlich die Frage beantworten, ob männliche oder weibliche Abgeordnete die längeren Reden halten. Oder auch, in welchem Monat und an welchem Wochentag die meisten Reden gehalten werden.
 
 
 *Auflösung des Parteien Wortwolken Rätsels*

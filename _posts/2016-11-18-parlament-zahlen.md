@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Auf ein Wort in Österreichs Parlament! Teil 2
-published: false
+published: true
 featured_image: /images/2016-parlament/featured_image_2.svg
 ---
-In der Fortsetzung des Artikels über die Nationalratssitzungen im österreichischen Parlament werde ich anhand von mehr als 30.000 Reden unter anderem folgende Fragen beantworten: Reden weibliche Abgeordnete oder männliche Abgeordnete mehr? Welche Partei hält im Durchschnitt die längsten Reden? An welchem Wochentag und in welchem Monat werden die meisten Reden gehalten?
+In der Fortsetzung des [Artikels](/parlament-wortwolke/) über die Nationalratssitzungen im österreichischen Parlament werde ich anhand von mehr als 30.000 Reden unter anderem folgende Fragen beantworten: Reden weibliche Abgeordnete oder männliche Abgeordnete mehr? Welche Partei hält im Durchschnitt die längsten Reden? An welchem Wochentag und in welchem Monat werden die meisten Reden gehalten?
 
 ## Wann werden die Reden im Parlament gehalten?
 
@@ -120,7 +120,3 @@ Langer Reder, kurzer Sinn, ich habe also die zum 8.8.2016 verfügbaren *stenogra
 ## Das IPython Notebook
 
 {% include notebook-links.md notebook="2016-parlament/parlament.ipynb" %}
-
-
-*Auflösung des Parteien Wortwolken Rätsels*
-Regierung: Partei D, SPÖ : Partei A, ÖVP : Partei E, FPÖ : Partei C, Grüne : Partei B.
