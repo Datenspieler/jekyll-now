@@ -2,7 +2,7 @@
 layout: post
 title: Auf ein Wort in Österreichs Parlament! Teil 2
 published: true
-featured_image: /images/2016-parlament/featured_image_2.svg
+featured_image: /images/2016-parlament/featured_image_2.png
 ---
 In der Fortsetzung des [Artikels](/parlament-wortwolke/) über die Nationalratssitzungen im österreichischen Parlament werde ich anhand von mehr als 30.000 Reden unter anderem folgende Fragen beantworten: Reden weibliche Abgeordnete oder männliche Abgeordnete mehr? Welche Partei hält im Durchschnitt die längsten Reden? An welchem Wochentag und in welchem Monat werden die meisten Reden gehalten?
 
