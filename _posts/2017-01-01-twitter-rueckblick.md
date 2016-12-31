@@ -39,7 +39,7 @@ Wenn man sich anschaut, wann getittert wird, erkennt man zum Beispiel die Präsi
 ![Tweets pro Tag](/images/2017-twitter/tweets_pro_tag.png)
 {: .center}
 
-Bezüglich besonders populärer Tweets, sprich Tweets mit einer hohen Anzahl an Retweets, sticht ein Tweets mit rund 1.300 Retweets heraus. Die meisten Tweets haben keinen Retweet.
+Bezüglich besonders populärer Tweets, sprich Tweets mit einer hohen Anzahl an Retweets, sticht ein Tweet mit rund 1.300 Retweets heraus. Die meisten Tweets haben keinen Retweet.
 
 ![Retweets bis](/images/2017-twitter/retweets_hist_bis_50.png)
 {: .center}
@@ -66,4 +66,4 @@ Ein Blick auf die Uhrzeit der Tweets zeigt, dass man beim Kurier und beim Standa
 
 ## Das IPython Notebook
 
-{% include notebook-links.md notebook="2016-karten-noe/Karten-NOE.ipynb" %}
+{% include notebook-links.md notebook="2017-twitter/twitter.ipynb" %}
