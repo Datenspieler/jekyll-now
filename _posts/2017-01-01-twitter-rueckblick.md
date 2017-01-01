@@ -2,7 +2,7 @@
 layout: post
 title: Ein kurzer Jahresrückblick via Twitter
 published: true
-featured_image: /images/2017-twitter/tweets_pro_stunde.png
+featured_image: /images/2017-twitter/hashtags.png
 ---
 Der Rest der Familie liegt dank Grippe krank im Bett, somit entfiel gestern die Silvesterfeier. Da ich mir eh schon länger anschauen wollte, was man mit den Twitter-Daten so alles machen kann, war rasch die Idee eines Jahresrückblicks via Twitter geboren.
 
