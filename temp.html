@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Wertübergabe mittels URL - Empfangendes Dokument</title>
+<script type="text/javascript">
+function Werteliste (querystring) {
+  if (querystring == '') return;
+  var wertestring = querystring.slice(1);
+  var paare = wertestring.split("&");
+  var paar, name, wert;
+  for (var i = 0; i < paare.length; i++) {
+    paar = paare[i].split("=");
+    name = paar[0];
+    wert = paar[1];
+    name = unescape(name).replace("+", " ");
+    wert = unescape(wert).replace("+", " ");
+    this[name] = wert;
+  }
+}
+var liste = new Werteliste(location.search);
+
+function GetURLParameter(sParam)
+{
+    var sPageURL = window.location.search.substring(1);
+    var sURLVariables = sPageURL.split('&');
+    for (var i = 0; i < sURLVariables.length; i++) 
+    {
+        var sParameterName = sURLVariables[i].split('=');
+        if (sParameterName[0] == sParam) 
+        {
+            return sParameterName[1];
+        }
+    }
+}
+
+var a = GetURLParameter('a')
+var b = GetURLParameter('b')
+</script>
+</head>
+<body>
+<h1>Übergebene Daten</h1>
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th>Feldname</th>
+    <td>Eintrag</td>
+  </tr>
+  <script type="text/javascript">
+  for (var eigenschaft in liste) {
+    document.write(
+      "<tr><td>" + eigenschaft + "</td>" +
+      "<td><code>" + liste[eigenschaft] + "</code></td></tr>"
+    );
+  }
+  </script>
+</table>
+
+
+<h1>Fixe Paremeter</h1>
+
+<h2>a</h2>
+<script>
+document.write("Paremeter a:" + a);
+</script>
+
+<h2>b</h2>
+<script>
+document.write("Paremeter b:" + b);
+</script>
+
+
+</body>
+</html>
