@@ -23,11 +23,8 @@
     <meta name="twitter:image" content="{{ site.url }}{{ page.featured_image }}" />
     {% endif %}
 
-    <style>
-    .error {
-        color: red;
-    }
-    </style>
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.0.2"></script>
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+    <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@[VERSION]"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@[VERSION]"></script>
+    <!-- Import vega-embed -->
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@[VERSION]"></script>
